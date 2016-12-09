@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/putuguna/AndroidStudioProjects/YoutubePlayerOnApps/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/home/putuguna/AndroidStudioProjects/YoutubePlayerOnApps/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.1_8443d3d54a08accd26e93b20b9c0d96148fa3a23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/putuguna/AndroidStudioProjects/YoutubePlayerOnApps/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/home/putuguna/AndroidStudioProjects/YoutubePlayerOnApps/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.1_3ad21a78fbf9654e32650e045c5a1ee180deb412.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/putuguna/AndroidStudioProjects/YoutubePlayerOnApps/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/home/putuguna/AndroidStudioProjects/YoutubePlayerOnApps/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.1_89ae09c60798d18f9544795cd32b535dd1c00a66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/putuguna/AndroidStudioProjects/YoutubePlayerOnApps/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/home/putuguna/AndroidStudioProjects/YoutubePlayerOnApps/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_d6e1cf7100c967837b887450d75f7109be01bf80.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/putuguna/AndroidStudioProjects/YoutubePlayerOnApps/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/putuguna/AndroidStudioProjects/YoutubePlayerOnApps/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_55d81ec614aa86d1053f2839c95b874d83c06551.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/putuguna/AndroidStudioProjects/YoutubePlayerOnApps/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/home/putuguna/AndroidStudioProjects/YoutubePlayerOnApps/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_5bd9dceed986863c4178341b3275412adde43b85.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/putuguna/AndroidStudioProjects/YoutubePlayerOnApps/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/home/putuguna/AndroidStudioProjects/YoutubePlayerOnApps/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.1_88bde67ef8ba04e895a38a401042fc6cdc64fad6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/putuguna/AndroidStudioProjects/YoutubePlayerOnApps/app/libs/YouTubeAndroidPlayerApi.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3c4f96ff493456651cc7bdb0b47e10eb25545a16">
+        <dex dex="/home/putuguna/AndroidStudioProjects/YoutubePlayerOnApps/app/build/intermediates/pre-dexed/debug/YouTubeAndroidPlayerApi_b1b7af52633a46b46cac0025b3684c9823d5e222.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/putuguna/AndroidStudioProjects/YoutubePlayerOnApps/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/home/putuguna/AndroidStudioProjects/YoutubePlayerOnApps/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_fd068e97b52845588512565f04792e3a24015682.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/putuguna/AndroidStudioProjects/YoutubePlayerOnApps/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/home/putuguna/AndroidStudioProjects/YoutubePlayerOnApps/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.1_cff6990f6368b66d9a2d1feece2aed2f935f6edf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/putuguna/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/home/putuguna/AndroidStudioProjects/YoutubePlayerOnApps/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.1_421fc456a532cd36e7e80aa9afd84219a2d1cb4b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/putuguna/AndroidStudioProjects/YoutubePlayerOnApps/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/home/putuguna/AndroidStudioProjects/YoutubePlayerOnApps/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_2f78684b6d4c1598f3b4e0a6ef3883349909c03c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/putuguna/AndroidStudioProjects/YoutubePlayerOnApps/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/home/putuguna/AndroidStudioProjects/YoutubePlayerOnApps/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.1_9c626c124a00bcbe60433cdd08125a70655ba6ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/putuguna/AndroidStudioProjects/YoutubePlayerOnApps/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/putuguna/AndroidStudioProjects/YoutubePlayerOnApps/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.1_eaf1ea9adae87b19e97aa6efbb54273460907489.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/putuguna/AndroidStudioProjects/YoutubePlayerOnApps/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/home/putuguna/AndroidStudioProjects/YoutubePlayerOnApps/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.1_79d250283b8e346cd92a989636e5d50534a272a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/putuguna/AndroidStudioProjects/YoutubePlayerOnApps/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/home/putuguna/AndroidStudioProjects/YoutubePlayerOnApps/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.1_0deda68f0120def3e4fe3482a767547e61d5020c.jar" />
+    </item>
+
+</items>
