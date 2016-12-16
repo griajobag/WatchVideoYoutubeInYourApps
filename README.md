@@ -1,3 +1,10 @@
 # WatchVideoYoutubeInYourApps
 
-More tutorial please find out on : androidbie.blogspot.com
+VIDEO DEMO 
+
+https://www.youtube.com/watch?v=FOvKHcPEFq0
+
+
+Find more tutorial :
+
+www.androidbie.tk
